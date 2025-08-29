@@ -12,6 +12,7 @@ public class Proyecto01_clase03 {
     num1 = lectura.nextDouble();
     System.out.print("Ingresar numero 2: ");
     num2 =lectura.nextDouble();
+    System.out.println("Resultados de la aplicacion: ");
     suma = num1 + num2;
     promedio = suma / 2;
     System.out.println("La suma es: "+suma);
